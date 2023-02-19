@@ -1,0 +1,15 @@
+D:\code\ws-csharp\balta.io-basico-exercicios-iniciante\cronometro\bin\Debug\net7.0\cronometro.exe
+D:\code\ws-csharp\balta.io-basico-exercicios-iniciante\cronometro\bin\Debug\net7.0\cronometro.deps.json
+D:\code\ws-csharp\balta.io-basico-exercicios-iniciante\cronometro\bin\Debug\net7.0\cronometro.runtimeconfig.json
+D:\code\ws-csharp\balta.io-basico-exercicios-iniciante\cronometro\bin\Debug\net7.0\cronometro.dll
+D:\code\ws-csharp\balta.io-basico-exercicios-iniciante\cronometro\bin\Debug\net7.0\cronometro.pdb
+D:\code\ws-csharp\balta.io-basico-exercicios-iniciante\cronometro\obj\Debug\net7.0\cronometro.csproj.AssemblyReference.cache
+D:\code\ws-csharp\balta.io-basico-exercicios-iniciante\cronometro\obj\Debug\net7.0\cronometro.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\ws-csharp\balta.io-basico-exercicios-iniciante\cronometro\obj\Debug\net7.0\cronometro.AssemblyInfoInputs.cache
+D:\code\ws-csharp\balta.io-basico-exercicios-iniciante\cronometro\obj\Debug\net7.0\cronometro.AssemblyInfo.cs
+D:\code\ws-csharp\balta.io-basico-exercicios-iniciante\cronometro\obj\Debug\net7.0\cronometro.csproj.CoreCompileInputs.cache
+D:\code\ws-csharp\balta.io-basico-exercicios-iniciante\cronometro\obj\Debug\net7.0\cronometro.dll
+D:\code\ws-csharp\balta.io-basico-exercicios-iniciante\cronometro\obj\Debug\net7.0\refint\cronometro.dll
+D:\code\ws-csharp\balta.io-basico-exercicios-iniciante\cronometro\obj\Debug\net7.0\cronometro.pdb
+D:\code\ws-csharp\balta.io-basico-exercicios-iniciante\cronometro\obj\Debug\net7.0\cronometro.genruntimeconfig.cache
+D:\code\ws-csharp\balta.io-basico-exercicios-iniciante\cronometro\obj\Debug\net7.0\ref\cronometro.dll
